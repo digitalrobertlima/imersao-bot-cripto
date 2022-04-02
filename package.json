@@ -1,0 +1,23 @@
+{
+  "name": "imersao-bot-cripto",
+  "version": "1.0.0",
+  "description": "Fontes do evento Imersão Bot Cripto 2.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luiztools/imersao-bot-cripto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luiztools/imersao-bot-cripto/issues"
+  },
+  "homepage": "https://github.com/luiztools/imersao-bot-cripto#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
